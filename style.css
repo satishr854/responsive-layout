@@ -1,0 +1,242 @@
+body{margin: 0;
+    padding: 0;
+    
+
+
+}
+.clearfix::after{
+    content: "";
+        display: block;
+        clear: both;
+    }
+
+
+.masterbox{width: 100%;
+    
+    
+    border-top: 4px solid rgb(49, 49, 77);
+
+}
+
+.navigation{ width: 70%;
+    height: 170px;
+    background-color: rgb(59, 59, 59);
+    margin: 0 auto;
+    
+}
+ h2{ font-size: 50px;
+    margin-top: 59px;
+    position: relative;
+    top: 69px;
+    left: 20px;
+
+}
+.navigation button{ color: #a3c9f3;
+    background-color: rgb(21, 49, 87);
+    margin-top: 59px;
+    position: relative;
+    right: 50%;
+    font-size: 50px;
+    
+    
+
+
+}
+
+
+ul{float: right;
+    list-style: none;
+    margin: 0 auto;
+    font-size: 50px;
+    
+    
+
+}
+li{ float: right;
+    margin-right: 30px;
+    color: white;
+
+}
+
+.navigation h2{ margin-top: 30px;
+
+    
+
+    font-size: 35px;
+    color: azure;
+
+}
+.navigation button{ float: right;
+    font-size: 30px;
+background-color: black;
+color: white;
+
+
+}
+.banner{width: 80%;
+    margin: 0 auto;
+        
+}
+
+.banner h1{text-align: center;
+    clear: both;
+    font-size: 70px;
+    color: rgb(48, 72, 94);
+    
+    
+
+}.banner p{text-align: center;
+    font-size: 30px;
+    color: rgb(26, 22, 61);
+
+
+}.threebox{padding: 100px 0px;
+
+    width: 70%;
+    margin: 0 auto;
+ /*   background-color: blue;  */
+}
+.main{width: 28%;
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    
+
+}
+.main h3{font-family:Arial, Helvetica, sans-serif ;
+    font-weight: 100px;
+    font-size: 20px;
+    color: rgb(135, 167, 189);
+    text-transform: uppercase;
+
+}
+.midbox{width: 70%;
+    margin: 0 auto; 
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+.midbox1{ width: 45%;
+    float: left;
+    margin-right: 2px;
+    margin-top: 20px;
+
+
+
+}
+.midbox1 img{border-radius: 100px;
+    width: 70%;
+    margin-left: 75px;
+    text-align: center;
+
+}
+.midbox1 p{text-align: center;
+
+    margin-right: 80px;
+    font-size: 20px;
+    font-style: initial;
+    line-height: 30px;
+    text-align: justify;
+    
+
+}
+.midbox h2{  text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    bottom: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    
